@@ -1,0 +1,38 @@
+<application>
+  <component name="libraryTable">
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 (Anaconda: CANTRIP) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-598050497" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-598050497" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
