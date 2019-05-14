@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/h4ste/trec-pm" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/h4ste/good-utils.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\goodwintrr\Documents\code" />
+    <option name="cloneParentDir" value="C:\Users\trg19\IdeaProjects" />
   </component>
 </application>
