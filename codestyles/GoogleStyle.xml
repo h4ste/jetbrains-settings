@@ -91,9 +91,6 @@
     </case-options>
     <formatting-settings enabled="false" />
   </DBN-PSQL>
-  <Python>
-    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
-  </Python>
   <DBN-SQL>
     <case-options enabled="true">
       <option name="KEYWORD_CASE" value="upper" />
@@ -509,11 +506,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="120" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
     <indentOptions>
