@@ -7,13 +7,12 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Python 3.6 (Anaconda: CANTRIP) interpreter library">
+    <library name="Python 3.6 (jamia-cantrip) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/DLLs" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-598050497" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/jamia-cantrip/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/jamia-cantrip/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/jamia-cantrip/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/309425823" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -22,11 +21,10 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/DLLs" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-598050497" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/jamia-cantrip/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/jamia-cantrip/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/jamia-cantrip/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/309425823" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
