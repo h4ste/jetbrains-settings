@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <option name="SOURCE_MODIFICATION_ALLOWED" value="true" />
+    <injection language="MYSQL-SQL" injector-id="scala">
+      <display-name>Spark.sql (org.apache.spark.sql.SparkSession)</display-name>
+      <place><![CDATA[scalaLiteral().callArgument(0, psiMethod().withName("sql").withParameters("java.lang.String").definedInClass("org.apache.spark.sql.SparkSession"))]]></place>
+    </injection>
   </component>
 </application>
