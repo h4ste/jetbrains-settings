@@ -1,9 +1,0 @@
-<application>
-  <component name="CodeInsightSettings">
-    <EXCLUDED_PACKAGE NAME="com.sun" />
-    <EXCLUDED_PACKAGE NAME="java.util.logging" />
-    <EXCLUDED_PACKAGE NAME="jdk" />
-    <EXCLUDED_PACKAGE NAME="org.apache.log4j" />
-    <EXCLUDED_PACKAGE NAME="sun" />
-  </component>
-</application>
