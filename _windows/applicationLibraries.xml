@@ -7,13 +7,12 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Python 3.6 (Anaconda: CANTRIP) interpreter library">
+    <library name="Python 3.7 (jamia-cantrip) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/DLLs" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-598050497" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/jamia-cantrip/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/jamia-cantrip/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/jamia-cantrip/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-1279558310" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
@@ -22,17 +21,36 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/DLLs" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test" />
-        <root url="file://$USER_HOME$/AppData/Local/Continuum/anaconda3/envs/cantrip-test/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/-598050497" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/jamia-cantrip/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/jamia-cantrip/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Continuum/miniconda3/envs/jamia-cantrip/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2019.2/system/python_stubs/-1279558310" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="scala-sdk-2.12.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.8-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/docs/scala-library-2.12.8-javadoc.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/docs/scala-reflect-2.12.8-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES />
     </library>
   </component>
 </application>
